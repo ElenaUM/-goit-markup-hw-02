@@ -101,6 +101,17 @@ img{
         letter-spacing: 0.04em;
         color: #fff;
         background-color: #4D5AE5;
+
+
+
+
+
+            border-radius: 4px;
+            padding: 16px 32px;
+            width: 169px;
+            height: 56px;
+            box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+            background: #4d5ae5;
 }
 
 .hero-btn:hover {
@@ -163,8 +174,11 @@ background-color: #404BBF;
         padding: 0px 0px 32px 0px;
         width: 264px;
         height: 380px;
-        box-shadow: 0 2px 1px 0;
+        ox-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08),
+                0 1px 1px 0 rgba(46, 47, 66, 0.16),
+                0 1px 6px 0 rgba(46, 47, 66, 0.08);
 }
+
 
 
 
