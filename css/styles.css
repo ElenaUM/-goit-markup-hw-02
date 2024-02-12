@@ -18,9 +18,7 @@ button {
     cursor: pointer;
 }
 
-address {
-        font-style: normal;
-}
+
 
 
 .logo {
@@ -60,6 +58,11 @@ address {
     color: #404bbf
 }
 
+
+
+.page-address { 
+        font-style: normal;
+}
 
 
 .address-link {
